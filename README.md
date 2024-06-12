@@ -14,3 +14,17 @@ Streamline your workflow by processing multiple PDF files simultaneously. The to
 
 Seamless Integration with Adobe Premium Version:<br>
 Designed with compatibility in mind, this watermarking tool seamlessly integrates with Adobe Premium Version, ensuring a smooth and efficient user experience. Users can harness the full potential of Adobe's premium features while enhancing their document management processes.
+
+## 🚀 About Me
+I'm a Data Analyst
+
+
+# Hi, I'm Naresh! 👋
+
+Highly motivated and eager Data Analyst with a passion for extracting insights from data. While new to the professional data analyst role, I possess a strong foundation in various technical skills through personal projects and independent learning. These skills include:
+
+Data Visualization: Proficient in Power BI for creating clear and impactful dashboards.
+Data Analysis: Familiar with R programming, Python, and SQL for data manipulation and analysis.
+Data Wrangling and Cleaning: Experienced in wrangling and cleaning data using tools like Excel.
+Data Reporting and Presentation: Adept at presenting data insights through clear reports and interactive dashboards (Power BI).
+I'm a quick learner and highly motivated to contribute to a data-driven environment. I'm eager to gain practical experience and apply my skills to solve real-world business problems.
